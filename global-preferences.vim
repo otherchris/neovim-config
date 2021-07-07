@@ -1,8 +1,8 @@
-so ./colemak-remaps.vim
-so ./coc-config.vim
-so ./line-numbers.vim
-so ./colors.vim
-so ./lang-tools.vim
+so ~/.config/nvim/colemak-remaps.vim
+so ~/.config/nvim/coc-config.vim
+so ~/.config/nvim/line-numbers.vim
+so ~/.config/nvim/colors.vim
+so ~/.config/nvim/lang-tools.vim
 
 " comma leader
 let mapleader = ","   " sets the <leader> variable to ,

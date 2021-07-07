@@ -1,4 +1,4 @@
-so ./global-plugins.vim
+so ~/.config/nvim/global-plugins.vim
 sil! call PlugInstall
-so ./global-preferences.vim
+so ~/.config/nvim/global-preferences.vim
 
