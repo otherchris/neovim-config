@@ -33,9 +33,10 @@ call plug#begin(stdpath('data') . '/plugged')
 " Unmanaged plugin (manually installed and updated)
 "Plug '~/my-prototype-plugin'
 
-
+Plug 'tpope/vim-surround'
+Plug 'junegunn/fzf'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'drewtempelmeyer/palenight.vim'
+Plug 'aonemd/kuroi.vim'
 
 " Initialize plugin system
-call plug#end() 
+call plug#end()

@@ -1,1 +1,2 @@
-colorscheme palenight
+colorscheme kuroi
+
